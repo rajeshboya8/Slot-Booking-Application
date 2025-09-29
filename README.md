@@ -25,12 +25,14 @@ Attach them to the fields:
 
 u_booking_day → slot visibility script
 
-#screenshots
+u_today_date → date validation script
+
+Test by selecting different days and dates.
+
+screenshots
 <img width="1909" height="515" alt="Screenshot 2025-09-29 230003" src="https://github.com/user-attachments/assets/e3603f6b-9033-4c78-b05a-8cda0110cbf8" />
 
 <img width="1919" height="299" alt="Screenshot 2025-09-29 230015" src="https://github.com/user-attachments/assets/801008a0-c539-4c8f-920b-65b69f87541b" />
 
 
-u_today_date → date validation script
 
-Test by selecting different days and dates.
