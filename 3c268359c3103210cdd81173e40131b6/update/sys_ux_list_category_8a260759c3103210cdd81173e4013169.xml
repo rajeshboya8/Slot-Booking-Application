@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_list_category">
+    <sys_ux_list_category action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <configuration display_value="Creator Studio Workspace">ae8cff95779a311055f78f71ef5a99a6</configuration>
+        <description/>
+        <order>100</order>
+        <sys_class_name>sys_ux_list_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-29 14:55:00</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8a260759c3103210cdd81173e4013169</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Slot Booking Requests</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Slot Booking" source="x_1622081_slot_b_0">3c268359c3103210cdd81173e40131b6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Slot Booking">3c268359c3103210cdd81173e40131b6</sys_scope>
+        <sys_update_name>sys_ux_list_category_8a260759c3103210cdd81173e4013169</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-29 14:55:00</sys_updated_on>
+        <title>Slot Booking Requests</title>
+    </sys_ux_list_category>
+</record_update>

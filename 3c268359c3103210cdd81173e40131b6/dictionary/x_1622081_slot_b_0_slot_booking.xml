@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="d6c88b1dc3103210cdd81173e40131e7" label="Slot Booking" max_length="40" name="x_1622081_slot_b_0_slot_booking" type="collection">
+        <element default="javascript:getNextObjNumberPadded();" dynamic_default_value="fdcb83a85f220100a9ad2572f2b4773c" label="Number" max_length="40" name="number" type="string" use_dynamic_default="true"/>
+        <element label="3" max_length="40" name="u_3" type="boolean"/>
+        <element label="8" max_length="40" name="u_8" type="boolean"/>
+        <element label="Today Date" max_length="40" name="today_date" type="glide_date"/>
+        <element label="1" max_length="40" name="u_1" type="boolean"/>
+        <element label="9" max_length="40" name="u_9" type="boolean"/>
+        <element choice="1" label="Booking Day" max_length="40" name="booking_day" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Friday" sequence="4" value="friday"/>
+                <element inactive_on_update="false" label="Tuesday" sequence="1" value="tuesday"/>
+                <element inactive_on_update="false" label="Monday" sequence="0" value="monday"/>
+                <element inactive_on_update="false" label="Saturday" sequence="5" value="saturday"/>
+                <element inactive_on_update="false" label="Wednesday" sequence="2" value="wednesday"/>
+                <element inactive_on_update="false" label="Sunday" sequence="6" value="sunday"/>
+                <element inactive_on_update="false" label="thursday" sequence="3" value="thursday"/>
+            </choice>
+        </element>
+        <element label="7" max_length="40" name="u_7" type="boolean"/>
+        <element label="2" max_length="40" name="u_2" type="boolean"/>
+        <element label="10" max_length="40" name="u_10" type="boolean"/>
+        <element label="4" max_length="40" name="u_4" type="boolean"/>
+        <element label="Name" max_length="32" name="name" reference="sys_user" type="reference"/>
+        <element label="5" max_length="40" name="u_5" type="boolean"/>
+        <element label="6" max_length="40" name="u_6" type="boolean"/>
+        <index name="index">
+            <element name="name"/>
+        </index>
+    </element>
+</database>
